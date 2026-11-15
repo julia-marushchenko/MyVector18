@@ -1,5 +1,5 @@
 /**
- *  Java program to create, update, read, and delete HashSet.
+ *  Java program to create, update, read, and delete Vector.
  */
 
 package com.mycollections;
